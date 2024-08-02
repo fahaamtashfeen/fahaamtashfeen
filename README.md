@@ -1,5 +1,5 @@
 # Github Stats
-[![Fahaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaamtashfeen&theme=dracula)](https://github.com/fahaamtashfeen/github-readme-stats)
+[![Fahaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaamtashfeen&theme=highcontrast)](https://github.com/fahaamtashfeen/github-readme-stats)
 
 # About Me
 
