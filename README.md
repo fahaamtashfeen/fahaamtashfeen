@@ -1,5 +1,5 @@
 # My Stats 
-[![Fahaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaamtashfeen&theme=cobalt)](https://github.com/fahaamtashfeen/github-readme-stats)
+[![Fahaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaamtashfeen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fahaamtashfeen&theme=cobalt)](https://git.io/streak-stats)
 
