@@ -1,3 +1,6 @@
+# Github Stats
+[![Fahaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaamtashfeen)](https://github.com/fahaamtashfeen/github-readme-stats)
+
 # About Me
 
 - 🔭 I’m currently working on school projects and personal projects (currently focused on a functional MERN stack ecommerce store)
