@@ -10,3 +10,11 @@ Prototyped and designed a naloxone delivery drone for a QNX-sponsored RTOS cours
 11+ years as a music producer, produced for Grammy-winning and multi-platinum artists.
 
 Interested in innovative technologies, and important missions.
+
+## 🛠 Tech Stack
+| Category | Skills |
+| --- | --- |
+| **Languages** | C, C++, JavaScript, Python, Java |
+| **Web** | React, Node.js, Express, MongoDB, HTML/CSS |
+| **Embedded/Low-Level** | STM32, FreeRTOS, RTOS Architecture, PCB Soldering |
+| **Tools** | AWS S3, Stripe, Git, Linux |
