@@ -17,4 +17,4 @@ Interested in innovative technologies, and important missions.
 | **Languages** | C, C++, JavaScript, Python, Java |
 | **Web** | React, Node.js, Express, MongoDB, HTML/CSS |
 | **Embedded/Low-Level** | STM32, FreeRTOS, RTOS Architecture, PCB Soldering |
-| **Tools** | AWS S3, Stripe, Git, Linux |
+| **Tools** | AWS S3, Stripe, Git, Linux, Claude Code, Codex, OpenCode (still experimenting with it) |
