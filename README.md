@@ -1,20 +1,53 @@
-# My Stats 
+# Fahaam Tashfeen
 
+Embedded and full-stack developer. Carleton University, BCS (Software Engineering), 2026.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fahaamtashfeen&theme=cobalt)](https://git.io/streak-stats)
+I write C for STM32 boards running FreeRTOS, and I build full-stack apps that run in production with live Stripe checkout. I've also made music for 11+ years and have produced for Roddy Ricch, NLE Choppa and Yeat. What I most want to work on is where the two meet: audio hardware and firmware for things that make sound.
 
-# About Me
-Software engineer graduate from Carleton University 2026. Built Zenith Gallery, a full-stack e-commerce platform for music producers. React, Node/Express, MongoDB, Stripe, AWS S3.
-Prototyped and designed a naloxone delivery drone for a QNX-sponsored RTOS course. Designed the full schematic, sourced and soldered all components from scratch on a custom STM32 and FreeRTOS architecture.
+Based in Ottawa, Canada. Open to relocating to the US.
 
-11+ years as a music producer, produced for Grammy-winning and multi-platinum artists.
+[zenith.gallery](https://zenith.gallery) · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
 
-Interested in innovative technologies, and important missions.
+## Projects
 
-## 🛠 Tech Stack
-| Category | Skills |
+### Naloxone delivery drone
+*STM32F407 · FreeRTOS · C · I2C*
+
+A drone designed to deliver naloxone (Narcan) to overdose scenes. Prototype built for a QNX-sponsored RTOS course at Carleton.
+
+- Designed the full schematic, sourced the parts and hand-soldered the electronics, with 3D-printed mounts
+- Evaluated QNX first, then moved to FreeRTOS when QNX no longer supported the board
+- FreeRTOS task architecture running on the STM32F407
+- Brought up the IMU over I2C and caught a counterfeit chip when its WHO_AM_I register returned the wrong ID
+
+**Status:** hardware built and brought up, not flying yet.
+
+<!-- Add a photo of the board here (drag it into GitHub's editor) and a link to the repo once it's public -->
+
+### Zenith Gallery · [zenith.gallery](https://zenith.gallery)
+*React · Node/Express · MongoDB · Stripe · AWS · Heroku*
+
+A live storefront for beats, sample packs and drum kits. I built it end to end and run it.
+
+- Stripe payments and webhooks, with purchases delivered through AWS S3 presigned URLs
+- Google OAuth and JWT auth, transactional email through AWS SES
+- Sentry for error monitoring, PostHog for analytics, DNS on Cloudflare
+- Production bugs I tracked down: a duplicate Stripe webhook endpoint, a casing mismatch (PascalCase in MongoDB, kebab-case in the frontend) in S3 presigned download links, and a Heroku H12 timeout on the empty-cart route
+- Currently expanding it into a multi-vendor marketplace
+
+The repo is private since the store is live. Happy to walk through the code.
+
+### BeatDrop · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
+*SvelteKit · Supabase · Cloudflare Pages · YouTube Data API v3 · Gemini*
+
+YouTube uploader for producers. It turns a beat and cover art into a video, writes the title and tags with Gemini, and publishes through the YouTube Data API. Each user connects their own Google Cloud OAuth client and Gemini key, so their credentials and API quota stay their own.
+
+## Tech
+
+| Area | Skills |
 | --- | --- |
 | **Languages** | C, C++, JavaScript, Python, Java |
-| **Web** | React, Node.js, Express, MongoDB, HTML/CSS |
-| **Embedded/Low-Level** | STM32, FreeRTOS, RTOS Architecture, PCB Soldering |
-| **Tools** | AWS S3, Stripe, Git, Linux, Claude Code, Codex, OpenCode (still experimenting with it) |
+| **Embedded** | STM32, FreeRTOS, RTOS architecture, I2C, schematic design, PCB soldering, hardware bring-up |
+| **Web** | React, Node.js, Express, MongoDB, SvelteKit, Supabase, HTML/CSS |
+| **Cloud & services** | AWS (S3, SES), Stripe, Heroku, Cloudflare, Sentry, PostHog |
+| **Tools** | Git, Linux |
