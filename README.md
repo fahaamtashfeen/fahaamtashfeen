@@ -6,7 +6,7 @@ I write C for STM32 boards running FreeRTOS, and I build full-stack apps that ru
 
 Based in Ottawa, Canada. Open to relocating to the US.
 
-[zenith.gallery](https://zenith.gallery) · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
+[LinkedIn](https://www.linkedin.com/in/fahaam) · [zenith.gallery](https://zenith.gallery) · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
 
 ## Projects
 
