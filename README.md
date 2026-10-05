@@ -2,7 +2,7 @@
 
 Embedded and full-stack developer. Carleton University, BCS (Software Engineering), 2026.
 
-I write C for STM32 boards running FreeRTOS, and I build web apps. I've also made music for 11+ years and have produced for Roddy Ricch, NLE Choppa, Yeat, MMZ, Gary Vaynerchuk and others. I want to work on firmware and hardware for audio gear like samplers, synths and interfaces.
+I've been making music for 11+ years and have produced for Roddy Ricch, NLE Choppa, Yeat, MMZ, Gary Vaynerchuk and others. I want to work on audio hardware and the firmware that runs it.
 
 [LinkedIn](https://www.linkedin.com/in/fahaam) · [zenith.gallery](https://zenith.gallery) · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
 
