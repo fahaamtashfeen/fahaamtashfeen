@@ -2,7 +2,7 @@
 
 Embedded and full-stack developer. Carleton University, BCS (Software Engineering), 2026.
 
-I've been making music for 11+ years and have produced for Roddy Ricch, NLE Choppa, Yeat, MMZ, Gary Vaynerchuk and others. I want to work on audio hardware and the firmware that runs it.
+I've also been making music for 11+ years and have produced for Roddy Ricch, NLE Choppa, Yeat, MMZ, Gary Vaynerchuk and others.
 
 [LinkedIn](https://www.linkedin.com/in/fahaam) · [zenith.gallery](https://zenith.gallery) · [beatdrop.zenith.gallery](https://beatdrop.zenith.gallery)
 
